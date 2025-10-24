@@ -1,37 +1,61 @@
-<!-- Banner / Logo (opcional) -->
+<h1 align="center">🧠 Royer Watson</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royerwatson/royerwatson/main/assets/psiconecta_logo.png" alt="Psiconecta" width="160">
-</p>
-
-<h1 align="center">Hola, soy Royer Watson — Psiconecta 👋</h1>
-<p align="center">
-  <strong>Psicólogo Clínico y de la Salud</strong> • Fundador de <strong>Psiconecta</strong><br>
-  Impulso bienestar psicológico en organizaciones con programas basados en evidencia.
+  <strong>Psicólogo Clínico y de la Salud · Fundador de <a href="https://github.com/royerwatson/Psiconecta">Psiconecta</a></strong>  
 </p>
 
 <p align="center">
-  <a href="https://psiconecta.shop"><img src="https://img.shields.io/badge/Web-Psiconecta.shop-0B7285?style=for-the-badge" /></a>
-  <a href="mailto:royerwatson@gmail.com"><img src="https://img.shields.io/badge/Contacto-Email-2B8A3E?style=for-the-badge" /></a>
-  <a href="https://instagram.com/psiconecta.do"><img src="https://img.shields.io/badge/Instagram-@psiconecta__do-AA3E98?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Psiconecta-Ecosistema%20de%20Bienestar-7FB3D5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-La%20Vega%2C%20Rep.%20Dom.-A2D9CE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Enfoque-Mindfulness%20Corporativo-C39BD3?style=for-the-badge">
 </p>
 
 ---
 
-## 💼 Qué hago
-- **Psiconecta Empresarial**: evaluación de clima, intervención psicológica, entrenamiento socioemocional y liderazgo saludable.
-- Diseño **PsicoWellness** (programas de bienestar) y materiales corporativos.
-- **Investigación aplicada** en salud mental laboral (instrumentos, métricas, tableros).
+## 🌱 Sobre mí
 
-## 🧠 Intereses
-Bienestar corporativo • Psicología basada en evidencia • Mindfulness • Visualización de datos • Productos digitales
+Soy **Psicólogo Clínico y de la Salud**, apasionado por unir ciencia, diseño y tecnología para crear entornos de bienestar sostenibles.  
+Dirijo **Psiconecta**, un ecosistema digital que integra intervención psicológica, desarrollo humano y análisis de impacto en organizaciones.
 
-## 📌 Repos destacados
-- 🔹 <a href="https://github.com/royerwatson/Psiconecta">Psiconecta</a> — Presentaciones, metodologías, servicios y propuestas.
-- 🔹 <a href="https://github.com/royerwatson/Psiconecta-Research">Psiconecta-Research</a> — Artículos, instrumentos y scripts (datos simulados/anónimos).
-- 🔹 <a href="https://github.com/royerwatson/Psiconecta-Shop">Psiconecta-Shop</a> — Diseños y documentación de productos digitales.
-- 🔹 <a href="https://github.com/royerwatson/Psiconecta-Dashboards">Psiconecta-Dashboards</a> — KPIs de bienestar y ejemplos de gráficos.
+🎯 **Mis áreas de enfoque:**
+- Bienestar psicológico y emocional  
+- Mindfulness aplicado al trabajo  
+- Psicología organizacional y data-driven  
+- Diseño mindful y comunicación empática  
 
-## 🤝 ¿Colaboramos?
-Abierto a alianzas con empresas, universidades y startups de salud mental.
-<br>📧 royerwatson@gmail.com • 🌐 psiconecta.shop
+---
+
+## 🧩 Ecosistema Psiconecta
+
+| Proyecto | Propósito |
+|-----------|------------|
+| [**Psiconecta-Empresarial**](https://github.com/royerwatson/Psiconecta/tree/main/Psiconecta-Empresarial) | Programas de bienestar psicológico laboral |
+| [**Psiconecta-Shop**](https://github.com/royerwatson/Psiconecta/tree/main/Psiconecta-Shop) | Productos creativos y materiales emocionales |
+| [**Psiconecta-Research**](https://github.com/royerwatson/Psiconecta/tree/main/Psiconecta-Research) | Investigación aplicada y documentación científica |
+| [**Psiconecta-Dashboards**](https://github.com/royerwatson/Psiconecta/tree/main/Psiconecta-Dashboards) | Visualización de métricas y análisis de impacto |
+
+> 💬 *Cuidamos a las personas que sostienen las empresas.*
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=royerwatson&show_icons=true&theme=calm&title_color=7FB3D5&icon_color=A2D9CE&text_color=555&bg_color=ffffff" alt="Estadísticas de GitHub de Royer Watson">
+</p>
+
+---
+
+## 📬 Contacto profesional
+
+📧 **Email:** royerwatson@gmail.com  
+🌐 **Sitio web:** [psiconecta.shop](https://psiconecta.shop)  
+💼 **LinkedIn:** [linkedin.com/in/royerwatson](https://linkedin.com/in/royerwatson)  
+📱 **Instagram:** [@psiconecta_do](https://instagram.com/psic.watson)
+
+---
+
+<p align="center">
+  <em>“Gestionamos el progreso con calma, claridad y propósito.”</em>
+</p>
+
 
