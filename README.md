@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Psiconecta-Ecosistema%20de%20Bienestar-7FB3D5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ubicación-La%20Vega%2C%20Rep.%20Dom.-A2D9CE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-Rep.%20Dom.-A2D9CE?style=for-the-badge">
   <img src="https://img.shields.io/badge/Enfoque-Mindfulness%20Corporativo-C39BD3?style=for-the-badge">
 </p>
 
